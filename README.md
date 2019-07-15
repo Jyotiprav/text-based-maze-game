@@ -14,5 +14,6 @@ Use the given w and h (representing the grid's width and height) to figure out w
 Given a direction that is either 'N', 'S', 'E' or 'W' (standing for North, South, East or West), return a tuple representing the changes that would occur to the x- and y- coordinates if a move is made in that direction.e.g. If d is 'W', that means the player should move
 to the left. In order to do so, their x-coordinate should decrease by 1. Their y-coordinate should stay the same.
 These changes can be represented as the tuple (-1, 0), because the x-coordinate would have -1 added to it, and the y-coordinate would have 0 added to it
+To see the output <a href="https://www.youtube.com/watch?v=cbMpdZpZHRA&feature=youtu.be">click here</a>
 
    
